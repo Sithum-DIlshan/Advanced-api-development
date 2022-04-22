@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_HellloServelet/01_HellloServelet.iml" filepath="$PROJECT_DIR$/01_HellloServelet/01_HellloServelet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_HTTPRequest/02_HTTPRequest.iml" filepath="$PROJECT_DIR$/02_HTTPRequest/02_HTTPRequest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_MappingSpec/03_MappingSpec.iml" filepath="$PROJECT_DIR$/03_MappingSpec/03_MappingSpec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_AppOne/04_AppOne.iml" filepath="$PROJECT_DIR$/04_AppOne/04_AppOne.iml" />
+    </modules>
+  </component>
+</project>

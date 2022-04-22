@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="httpRequest">
+    <output-path>$PROJECT_DIR$/out/artifacts/httpRequest</output-path>
+    <root id="archive" name="httpRequest.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="02_HTTPRequest" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="02_HTTPRequest/web/Web" />
+    </root>
+  </artifact>
+</component>
